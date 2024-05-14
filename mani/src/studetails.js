@@ -58,7 +58,7 @@ const Studetails = () => {
 <button className="btn btn-success "><Link to={`/stulist`} style={{ textDecoration: 'none', color: 'white' }}> Student List</Link> </button>
 </div>
 </div>
-  <h2 className='text-center mt-5'>CUSTOMER DETAILS</h2>
+  <h2 className='text-center mt-5'>STUDENT DETAILS</h2>
 
   <div className='row mt-5'>
 
